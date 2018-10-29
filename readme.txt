@@ -1,1 +1,1 @@
-This directory has java prjects, programs and libraries. 
+This directory has java projects, programs and libraries. 
